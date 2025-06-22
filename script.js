@@ -1,4 +1,4 @@
-// TEMP CHANGE TO FORCE UPDATE 2025-06-22 - This comment helps verify latest code
+// TEMP CHANGE TO FORCE UPDATE - This comment helps verify latest code 2025-06-22 7:20PM
 // Get references to the HTML elements
 const connectButton = document.getElementById('connect');
 const accountDisplay = document.getElementById('account');
